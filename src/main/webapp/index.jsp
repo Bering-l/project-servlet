@@ -1,4 +1,3 @@
-<jsp:useBean id="data" scope="session"/>
 <%@ page import="com.tictactoe.Sign" %>
 <%@ page contentType="text/html;charset=UTF-8" %>
 
